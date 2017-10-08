@@ -20,7 +20,7 @@ Telefon: +491723456789
   
 E-Mail: <post@sebastiansemper.de>
   
-Internetadresse: <a href="http://www.sebastiansemper.de" target="_blank" rel="noopener noreferrer">www.sebastiansemper.de</a>
+Internetadresse: <a href="https://sebastiansemper.github.io" target="_blank" rel="noopener noreferrer">sebastiansemper.github.io</a>
 
 ## Haftungsausschluss
 
